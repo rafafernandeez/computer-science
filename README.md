@@ -91,7 +91,7 @@ just remember that you can't purchase success!
 
 - [Prerequisites](#prerequisites)
 - [Intro CS](#intro-cs)
-  - [Introduction to Programming](#introduction-to-programming)
+  - [Introduction to Programming](#introduction-to-programming) [COMPLET]
   - [Introduction to Computer Science](#introduction-to-computer-science)
 - [Core CS](#core-cs)
   - [Core programming](#core-programming)
